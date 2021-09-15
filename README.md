@@ -44,3 +44,4 @@ These exercises should be done when instructed during the course of the curricul
   - 06-flex-layout [ ]
   - 07-flex-layout-2 [ ]
 # odin-exercises
+# desktop/ odin-exercises
