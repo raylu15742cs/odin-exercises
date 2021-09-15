@@ -32,7 +32,7 @@ These exercises should be done when instructed during the course of the curricul
   - 06-cascade-fix [✅]
 
 2. Margin and Padding:
-  - margin-and-padding-1 [ ]
+  - margin-and-padding-1 [a ]
   - margin-and-padding-2 [ ]
  
 3. Flex:
